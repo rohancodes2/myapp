@@ -1,0 +1,70 @@
+{
+  "Books": [
+    {
+      "id": "1",
+      "title": "The Da Vinci Code",
+      "Author": "Dan Brown",
+      "ISBN": "0-385-50420-9",
+      "PublicationDate": "April 2003",
+      "Publisher": "Doubleday",
+      "Price": "1000",
+      "Genre": "Mystery",
+      "Format": "Mobi"
+    },
+    {
+      "id": "2",
+      "title": "Harry Potter -1",
+      "Author": "Rowling",
+      "ISBN": "233",
+      "PublicationDate": "26/6/1997",
+      "Publisher": "Raincoast",
+      "Price": "1000",
+      "Genre": "Fantasy",
+      "Format": "Pdf"
+    },
+    {
+      "id": "3",
+      "title": "Lord of the Rings",
+      "Author": "Tokien",
+      "ISBN": "233",
+      "PublicationDate": "29/6/1954",
+      "Publisher": "Allen and unwin",
+      "Price": "100",
+      "Genre": "Fantasy",
+      "Format": "Pdf"
+    },
+    {
+      "id": "4",
+      "title": "The Great Gatsby",
+      "Author": "Scott F.",
+      "ISBN": "123",
+      "PublicationDate": "10/4/1925",
+      "Publisher": "Chatto and Windus",
+      "Price": "100",
+      "Genre": "Fiction",
+      "Format": "Ebup"
+    },
+    {
+      "id": "5",
+      "title": "War and Peace",
+      "Author": "Leo tolstoy",
+      "ISBN": "345",
+      "PublicationDate": "1/1/1869",
+      "Publisher": "Allen and unwin",
+      "Price": "100",
+      "Genre": "Novel",
+      "Format": "Pdf"
+    },
+    {
+      "id": "6",
+      "title": "Hamlet",
+      "Author": "William Shakespeare",
+      "ISBN": "",
+      "PublicationDate": "1/1/1600",
+      "Publisher": "Asafd",
+      "Price": "100",
+      "Genre": "Novel",
+      "Format": "Mobi"
+    }
+  ]
+}
